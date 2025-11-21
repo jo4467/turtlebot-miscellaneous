@@ -1,3 +1,0 @@
-gpssub = rossubscriber('/hedge_pos', 'marvelmind_nav/hedge_pos');
-gpsmessage = rosmessage(gpssub);
-
